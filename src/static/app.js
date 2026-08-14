@@ -1,3 +1,4 @@
+// Step 3: Added participants section with delete functionality
 document.addEventListener("DOMContentLoaded", () => {
   const activitiesList = document.getElementById("activities-list");
   const activitySelect = document.getElementById("activity");
